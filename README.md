@@ -95,6 +95,7 @@ Applying transfer learning from pre-trained models
 Increasing training data or applying augmentation
 
 **🔧 Tech Stack**
+
 Python
 
 TensorFlow / Keras
@@ -104,6 +105,7 @@ NumPy & Pandas
 Matplotlib & Seaborn (for visualization)
 
 **📁 Files Included**
+
 classification.ipynb: Jupyter Notebook with the complete model pipeline
 
 output.1.jpg: Training and validation accuracy/loss plot
